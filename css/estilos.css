@@ -1,5 +1,16 @@
 body {
-    color: brown;
     text-align: center;
     font-family: "Arial";
 }
+
+    .header {
+        background-color: rgb(61, 61, 189);
+        color: rgb(219, 219, 218);
+        border: 1px solid #414141;
+        padding: 10px;
+    }
+
+    .main {
+        border: 1px solid #414141;
+        padding: 10px;
+    }
