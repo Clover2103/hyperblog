@@ -26,9 +26,14 @@ body {
         border: 1px solid #414141;
         background-color: #fff;
         padding: 10px;
+        height: 80%;
     }
 
     .footer {
         background-color: rgb(61, 61, 189);
         color: aliceblue;
+        height: 10%;
+        display: flex;
+        justify-content: center;
+        align-items: center;
     }
