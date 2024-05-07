@@ -1,6 +1,11 @@
 body {
     text-align: center;
     font-family: "Arial";
+    background: #252525;
+}
+
+.cuerpo {
+    height: 100vh;
 }
 
     .header {
@@ -8,9 +13,20 @@ body {
         color: rgb(219, 219, 218);
         border: 1px solid #414141;
         padding: 10px;
+        height: 10%;
+        display: flex;
+        justify-content: space-evenly;
     }
+
+        .logo img {
+            height: 100%;
+        }
 
     .main {
         border: 1px solid #414141;
+        background-color: #fff;
         padding: 10px;
+        height: 90%;
     }
+
+    
